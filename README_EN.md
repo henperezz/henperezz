@@ -52,13 +52,13 @@ If you’d like to get in touch, I’m always open to meeting new people!!! 🐱
 # 🏛 Statistics
 
 <!-- General Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henperezz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henperezz&show_icons=true&theme=merko)
 
 <!-- Most Used Languages -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henperezz&layout=compact&langs_count=8&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henperezz&layout=compact&langs_count=8&theme=merko)
 
 <!-- Contributions Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=henperezz&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=henperezz&theme=merko)
 
 ---
 

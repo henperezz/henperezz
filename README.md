@@ -57,9 +57,6 @@ Se quiser entrar em contato, estou sempre aberto a conhecer novas pessoas!!! �
 <!-- Linguagens mais usadas -->
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henperezz&layout=compact&langs_count=8&theme=merko)
 
-<!-- Contribuições em streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=henperezz&theme=merko)
-
 ---
 
 > "Um coração cheio de esperança pode transformar até o sacrifício mais doloroso em força para seguir em frente."

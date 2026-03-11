@@ -10,24 +10,47 @@ Aqui estão as principais linguagens que estudo ou tenho interesse atualmente:
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" title="Java"/></td>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" /></td>
-    <td>Linguagem que possuo grande interesse e que futuramente usarei em projetos dos meus estudos.</td>
+    <td align="center">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java"/>
+      </a>
+    </td>
+    <td><strong>Java</strong>: Grande interesse na utilização dessa linguagem em projetos mobile.</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" title="Python"/></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white" /></td>
-    <td>Ferramenta que utilizo e ja a estudei, tendo um conhecimento maior do que das outras.</td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
+      </a>
+    </td>
+    <td><strong>Python</strong>: Ferramente conhecida que possuo experiência básica.</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="30" title="Ruby"/></td>
-    <td><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logoColor=white" /></td>
-    <td>Puro interesse, planejo estuda-la após concluir as linguagens de maior prioridade.</td>
+    <td align="center">
+      <a href="https://www.ruby-lang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45" title="Ruby"/>
+      </a>
+    </td>
+    <td><strong>Ruby</strong>: Puro interesse, planejo estuda-la após as linguagens de maior prioridade.</td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" title="Node.js"/></td>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" /></td>
-    <td>Interesse de utiliza-la em meu projeto de conclusão de curso.</td>
+    <td align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+      </a>
+    </td>
+    <td><strong>Node.js</strong>: Interesse em utilizar no back-end do trabalho de conclusão de curso que está em desenvolvimento.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+      </a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+      </a>
+    </td>
+    <td><strong>Web Design</strong>: Atualmente o foco dos estudos, desenvolvimento front-end.</td>
   </tr>
 </table>
 ---

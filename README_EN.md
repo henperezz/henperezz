@@ -1,65 +1,61 @@
-# 👋 Welcome to my profile!! 👋
+# Hi there, Welcome to my profile! 
 
-<!-- Button to switch language -->
-<p align="right">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🌐 Português-green?style=for-the-badge" alt="Mudar para Português"/>
-  </a>
-</p>
-
-☕ 🥂
-
-🇩🇪 🇨🇦 🇧🇷
-
-**🧩 About Me**
-
-My name is Pedro, I’m 17 years old and I’m a student in **High School integrated with a Systems Development course**, where every day is a new opportunity to learn!  
-This repository is dedicated to **projects I develop during the course** and also to **expand my personal portfolio**. I believe that with effort, anything can be achieved. 💡 
+### About me
+I'm Pedro, a high school student currently enrolled in a technical program for Systems Development. Passionate about technology since I was a kid, I strive to be the best version of myself every day.
 
 ---
 
-## 🕋 Languages I’m Learning
-Here are some of the programming languages I’m currently studying:
+### Technologies and Tools
+Here are the main languages I am currently studying or interested in:
 
-<!-- Python Button -->
-<a href="https://www.python.org/downloads/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Download Python"/>
-</a>
-
-<!-- Java Button -->
-<a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Download Java"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java"/>
+      </a>
+    </td>
+    <td><strong>Java</strong>: Great interest in using this language for mobile projects.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
+      </a>
+    </td>
+    <td><strong>Python</strong>: A well-known tool where I have basic experience.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.ruby-lang.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="45" title="Ruby"/>
+      </a>
+    </td>
+    <td><strong>Ruby</strong>: Pure interest; I plan to study it after prioritizing other languages.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+      </a>
+    </td>
+    <td><strong>Node.js</strong>: Interested in using it for the backend of my ongoing capstone project.</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+      </a>
+    </td>
+    <td><strong>Web Design</strong>: Currently my main focus, focusing on front-end development.</td>
+  </tr>
+</table>
 
 ---
 
-## ⛩ Contact
-
-If you’d like to get in touch, I’m always open to meeting new people!!! 🐱‍👤
-
-<!-- LinkedIn Button -->
-<a href="https://www.linkedin.com/in/henpedroperez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<!-- Email Button -->
-<a href="mailto:pedro.hen.perez08@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
-
-# 🏛 Statistics
-
-<!-- General Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henperezz&show_icons=true&theme=merko)
-
-<!-- Most Used Languages -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henperezz&layout=compact&langs_count=8&theme=merko)
-
-<!-- Contributions Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=henperezz&theme=merko)
-
----
-
-> “A heart full of hope can turn even the most painful sacrifice into strength to move forward.”
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henperezz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="
